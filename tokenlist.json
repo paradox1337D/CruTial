@@ -1,0 +1,26 @@
+{
+    "address": "TW1MFZhXW8CXwR1KrPYh4cMmLfPPnxsdDG",
+    "symbol": "DNG",
+    "name": "DenGo",
+    "decimals": 6,
+    "logoURI": "https://github.com/paradox1337D/dengo/blob/main/logo.png",
+    "homepage": "https://goldencash.app/download",
+    "MarketCapLink": "https://nile.tronscan.io/#/token20/TW1MFZhXW8CXwR1KrPYh4cMmLfPPnxsdDG",
+    "existingMarkets": [
+        {
+            "source": "Binance",
+            "pairs": [
+                "DNG/USDT",
+                "DNG/BUSD",
+                "DNG/BNB",
+                "DNG/USDC"
+            ]
+        },
+        {
+            "source": "Poloniex",
+            "pairs": [
+                "DNG/USDT"
+            ]
+        }
+  ]
+}
